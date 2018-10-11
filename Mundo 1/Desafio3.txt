@@ -1,0 +1,6 @@
+primeiro = input('Primeiro numero = ')
+segundo = input('Segundo numero = ')
+
+soma = primeiro + segundo
+
+print('a soma dos dois números é ' + soma)
